@@ -1,5 +1,7 @@
 # Fitness Membership Analytics Dashboard
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## Overview
 This project analyzes a fitness membership dataset using Microsoft Excel. It covers the complete data analytics workflow including data cleaning, modeling, KPI development, customer segmentation, forecasting, and dashboard creation to generate actionable business insights.
 
